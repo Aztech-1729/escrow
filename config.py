@@ -1,4 +1,4 @@
-BOT_TOKEN        = "8617390883:AAGY1kg-YLKc1gwkvWwzg2dK-6MWA1eBawg"
+BOT_TOKEN        = "8617390883:AAGmTzzZKGhHqZP5hVO-3m_eCTWxPMyJh7c"
 
 # Escrow group — where escrow deals are made (commands work here)
 ESCROW_GROUP_ID  = -1003877394701
@@ -13,13 +13,13 @@ MAIN_CHANNEL_ID  = -1003621021609
 ALLOWED_GROUP_ID = ESCROW_GROUP_ID
 
 ADMIN_IDS        = [8313065945, 6670166083]
-MONGO_URI        = "mongodb+srv://aztech:ayazahmed1122@cluster0.mhuaw3q.mongodb.net/escrow_db?retryWrites=true&w=majority"
+MONGO_URI        = "mongodb://localhost:27017/escrow_db"
 DB_NAME          = "escrow_db"
 
 # Invite links for inline buttons
-ESCROW_GROUP_LINK  = "https://t.me/+i01DeGeSiQo4NjQ0"
-MAIN_GROUP_LINK    = "https://t.me/+C1gF-nMwvrw5ZGNk"
-MAIN_CHANNEL_LINK  = "https://t.me/aurexia_store"
+ESCROW_GROUP_LINK  = "https://t.me/+B6KjBLzH8TU5NjNk"
+MAIN_GROUP_LINK    = "https://t.me/dalal_boys"
+MAIN_CHANNEL_LINK  = "https://t.me/Growixx_store"
 
 # Greet messages (use {mention} as placeholder for the user's name)
 GREET_MAIN_GROUP = (
